@@ -26,6 +26,6 @@
 #### This updates the job basing on the id of the job to be updated
 #### Endpoint:  /jobs/1
 
-## 1: Add a job (PUT)
+## 1: Add a job (DELETE)
 #### This deletes a job matching the id passed in the url
 #### Endpoint:  /jobs/1
